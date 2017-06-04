@@ -2,8 +2,6 @@
 
 Just [YouTrack](https://www.jetbrains.com/youtrack/), amazing issue tracker from folks at JetBrains, but dockerized.
 
-## Versions
-
 Current dockerized YouTrack version is 2017.1.31322. This is available both as "bircow/youtrack:latest" or "bircow/youtrack:2017.1.31322".
 
 ## Running
